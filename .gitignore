@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 thoughts/
+data/south_africa
+data/wdpa/WDPA_Feb2019_Public
+data/wdpa/WDPA_Feb2019_polygons_use.Rds
